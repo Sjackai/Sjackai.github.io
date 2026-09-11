@@ -1,0 +1,38 @@
+body {
+    font-family: "Times New Roman", serif;
+    background-color: white;
+}
+
+.container {
+    width: 400px;
+    margin: 30px auto;
+}
+
+.prince-image {
+    width: 400px;
+    display: block;
+}
+
+p {
+    font-size: 17px;
+    line-height: 1;
+    margin-top: 5px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.red {
+    color: red;
+    font-weight: bold;
+}
+
+a {
+    display: inline-block;
+    margin-top: 20px;
+}
